@@ -1,2 +1,6 @@
-# CS-330
-Comp Graphics and Visualization
+How do I approach designing software?
+My approach to designing this project was first to read and analyze the instructions for what I was expected to accomplish and then start to implement the guidelines into the project. My process for design was to take it step by step and not get ahead of myself on this project. First I needed a plan for my design, then I needed to take complex objects and break them down into smaller, more manageable objects that can be completed. Once I had my rough design, I could then make adjustments to fine tune the environment to look like a lifelike recreation of a scene. 
+How do I approach developing programs?
+I approach my development with steps in mind. I need to take small steps that are easily repeatable in order to understand where I'm going and in order to know where I'm going I must have a goal set. I enjoyed having milestones set along the way to completing the final project as those small steps in figuring out how to make basic shapes evolved into creating shadows for realistic lighting and textures. This step by step approach is the best way for me personally to be able to achieve success on a larger project such as this one.
+How can computer science help me in reaching my goals?
+This step by step approach is a fantastic way to achieve success in not just coding, but everyday life as well. If a task seems insurmountable, just break it down into smaller, more manageable tasks. While I'm not expecting to enter the Computer Graphics field, this class was extremely fun and I learned a lot during it!
